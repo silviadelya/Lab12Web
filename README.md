@@ -137,7 +137,7 @@ Untuk mengakses REST API CodeIgniter, kita perlu mendefinisikan route-nya terleb
 
 * Selanjutnya akan muncul daftar route yang telah dibuat.
 
-    [Gambar 1](ss/1.png)
+    ![Gambar 1](ss/1.png)
 
 
 * Seperti yang terlihat, satu baris kode routes yang di tambahkan akan menghasilkan banyak Endpoint.
@@ -146,7 +146,7 @@ Untuk mengakses REST API CodeIgniter, kita perlu mendefinisikan route-nya terleb
 
 * Buka aplikasi **postman** dan pilih **create new → HTTP Request**.
   
-    [Gambar 2](ss/2.png)
+    ![Gambar 2](ss/2.png)
 
 
 ## Menampilkan Semua Data
@@ -155,7 +155,7 @@ Untuk mengakses REST API CodeIgniter, kita perlu mendefinisikan route-nya terleb
 
 * Lalu, klik **Send**. Jika hasil test menampilkan semua data artikel dari database, maka pengujian berhasil.
 
-    [Gambar 3](ss/3.png)
+    ![Gambar 3](ss/3.png)
 
 
 ## Menampilkan Data Spesifik
@@ -164,7 +164,7 @@ Untuk mengakses REST API CodeIgniter, kita perlu mendefinisikan route-nya terleb
   
 * Selanjutnya, klik **Send**. Request tersebut akan menampilkan data artikel yang memiliki ID nomor 2 di database.
 
-    [Gambar 4](ss/4.png)
+    ![Gambar 4](ss/4.png)
 
 
 ## Mengubah Data
@@ -173,7 +173,7 @@ Untuk mengakses REST API CodeIgniter, kita perlu mendefinisikan route-nya terleb
   
 * Selanjutnya, pilih tab **Body**. Kemudian, pilih **x-www-form-uriencoded**. Masukkan nama atribut tabel pada kolom **KEY** dan nilai data yang baru pada kolom **VALUE**. Kalau sudah, klik **Send**.
 
-    [Gambar 5](ss/5.png)
+    ![Gambar 5](ss/5.png)
 
 
 ## Menambahkan Data
@@ -182,7 +182,7 @@ Untuk mengakses REST API CodeIgniter, kita perlu mendefinisikan route-nya terleb
   
 * Pilih tab **Body**, lalu pilih **x-www-form-uriencoded**. Masukkan atribut tabel pada kolom **KEY** dan nilai data baru di kolom **VALUE**. Jangan lupa, klik **Send**.
 
-    [Gambar 6](ss/6.png)
+    ![Gambar 6](ss/6.png)
 
 
 ## Menghapus Data
@@ -191,7 +191,7 @@ Untuk mengakses REST API CodeIgniter, kita perlu mendefinisikan route-nya terleb
   
 * Langsung saja klik **Send**, maka akan mendapatkan pesan bahwa data telah berhasil dihapus dari database.
 
-    [Gambar 7](ss/7.png)
+    ![Gambar 7](ss/7.png)
 
 
 ## Terimakasih!
