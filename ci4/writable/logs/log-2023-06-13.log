@@ -1,0 +1,43 @@
+CRITICAL - 2023-06-13 03:22:35 --> Call to a member function move() on null
+in APPPATH\Controllers\Artikel.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Artikel->add()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\lab7_ci\\ci4\\public\\index.php')
+CRITICAL - 2023-06-13 03:28:15 --> Call to a member function move() on null
+in APPPATH\Controllers\Artikel.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Artikel->add()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\lab7_ci\\ci4\\public\\index.php')
+CRITICAL - 2023-06-13 03:37:58 --> Call to a member function move() on null
+in APPPATH\Controllers\Artikel.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Artikel->add()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\lab7_ci\\ci4\\public\\index.php')
+CRITICAL - 2023-06-13 03:38:23 --> Call to a member function move() on null
+in APPPATH\Controllers\Artikel.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Artikel->add()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\lab7_ci\\ci4\\public\\index.php')
+CRITICAL - 2023-06-13 03:38:54 --> Call to a member function move() on null
+in APPPATH\Controllers\Artikel.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Artikel->add()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\lab7_ci\\ci4\\public\\index.php')
+INFO - 2023-06-13 06:46:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-13 07:05:49 --> Call to a member function move() on null
+in APPPATH\Controllers\Artikel.php on line 73.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Artikel->edit('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\lab7_ci\\ci4\\public\\index.php')
